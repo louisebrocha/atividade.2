@@ -1,0 +1,21 @@
+body {
+margin: 20px;
+padding: 5px;
+background-color:antiquewhite;
+}
+
+nav {
+  margin-bottom: 15px;
+ display: inline-block;
+  width: 104px;
+  padding: 12px;
+
+}
+
+main{
+    width: 100%;
+}
+
+.projetos {
+
+}
