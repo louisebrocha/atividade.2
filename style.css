@@ -1,21 +1,59 @@
+
 body {
+font-family: 'Times New Roman', Times, serif;
 margin: 20px;
 padding: 5px;
 background-color:antiquewhite;
 }
 
 nav {
-  margin-bottom: 15px;
- display: inline-block;
-  width: 104px;
-  padding: 12px;
+ margin-bottom: 20 px;
 
+}
+
+nav a {
+display: inline-block;
+width: 120px;
+padding: 12px;
+margin-right: 3px;
+border: 1px solid #333;
+text-align: center;
 }
 
 main{
     width: 100%;
 }
 
+h1 {
+margin-bottom: 20px;
+}
+
 .projetos {
+display: inline-block;
+gap: 5px;
+width: 204px;
+margin-bottom: 25px;
+height: 154px;
+box-sizing: border-box;
+border: 2px solid black;
+padding: 0%;
+}
+
+.sobre h2 {
+margin-bottom: 20px;
+}
+
+.sobre p {
+  margin-bottom: 15px;
+}
+
+.html{
+  border: 2px solid #000000;
+}
+
+.rodapé{
+  border: 2px solid #000000;
+  margin-left: 10px;
+  height: 55px;
 
 }
